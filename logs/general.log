@@ -1,0 +1,6 @@
+2023-10-11 18:32:42 DEBUG Loggerlog4j:14 - Este es un mensaje de nivel DEBUG
+2023-10-11 18:32:42 INFO  Loggerlog4j:15 - Este es un mensaje dfe nivel INFO
+2023-10-11 18:32:42 WARN  Loggerlog4j:16 - Este es un mensaje dfe nivel WARNING
+2023-10-11 18:32:42 ERROR Loggerlog4j:17 - Este es un mensaje dfe nivel ERROR
+2023-10-11 18:32:42 FATAL Loggerlog4j:18 - Este es un mensaje dfe nivel FATAL
+2023-10-11 18:35:43 ERROR Loggerlog4j:26 - Division invalida por cero java.lang.ArithmeticException: Division invada por cero
